@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\QLCHMT\Quan ly cua hang may tinh\bin\Debug\Quan ly cua hang may tinh.exe.config
+C:\Users\Admin\source\repos\QLCHMT\Quan ly cua hang may tinh\bin\Debug\Quan ly cua hang may tinh.exe
+C:\Users\Admin\source\repos\QLCHMT\Quan ly cua hang may tinh\bin\Debug\Quan ly cua hang may tinh.pdb
+C:\Users\Admin\source\repos\QLCHMT\Quan ly cua hang may tinh\obj\Debug\Quan ly cua hang may tinh.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QLCHMT\Quan ly cua hang may tinh\obj\Debug\Quan ly cua hang may tinh.exe
+C:\Users\Admin\source\repos\QLCHMT\Quan ly cua hang may tinh\obj\Debug\Quan ly cua hang may tinh.pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\QLCHMT\MainformQLCHMT\bin\Debug\MainformQLCHMT.exe.config
+C:\Users\Admin\source\repos\QLCHMT\MainformQLCHMT\bin\Debug\MainformQLCHMT.exe
+C:\Users\Admin\source\repos\QLCHMT\MainformQLCHMT\bin\Debug\MainformQLCHMT.pdb
+C:\Users\Admin\source\repos\QLCHMT\MainformQLCHMT\obj\Debug\MainformQLCHMT.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\QLCHMT\MainformQLCHMT\obj\Debug\MainformQLCHMT.Form1.resources
+C:\Users\Admin\source\repos\QLCHMT\MainformQLCHMT\obj\Debug\MainformQLCHMT.Properties.Resources.resources
+C:\Users\Admin\source\repos\QLCHMT\MainformQLCHMT\obj\Debug\MainformQLCHMT.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\QLCHMT\MainformQLCHMT\obj\Debug\MainformQLCHMT.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QLCHMT\MainformQLCHMT\obj\Debug\MainformQLCHMT.exe
+C:\Users\Admin\source\repos\QLCHMT\MainformQLCHMT\obj\Debug\MainformQLCHMT.pdb

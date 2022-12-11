@@ -1,0 +1,18 @@
+C:\Users\Admin\Downloads\Compressed\QLCHMT\DAL_QuanLy\bin\Debug\DAL_QuanLy.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\DAL_QuanLy\bin\Debug\DAL_QuanLy.pdb
+C:\Users\Admin\Downloads\Compressed\QLCHMT\DAL_QuanLy\bin\Debug\DTO_QuanLy.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\DAL_QuanLy\bin\Debug\DTO_QuanLy.pdb
+C:\Users\Admin\Downloads\Compressed\QLCHMT\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Compressed\QLCHMT\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Compressed\QLCHMT\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.CopyComplete
+C:\Users\Admin\Downloads\Compressed\QLCHMT\DAL_QuanLy\obj\Debug\DAL_QuanLy.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\DAL_QuanLy\obj\Debug\DAL_QuanLy.pdb
+D:\Heo\Đồ án PTTKHT\QLCHMT\DAL_QuanLy\bin\Debug\DAL_QuanLy.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\DAL_QuanLy\bin\Debug\DAL_QuanLy.pdb
+D:\Heo\Đồ án PTTKHT\QLCHMT\DAL_QuanLy\bin\Debug\DTO_QuanLy.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\DAL_QuanLy\bin\Debug\DTO_QuanLy.pdb
+D:\Heo\Đồ án PTTKHT\QLCHMT\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.AssemblyReference.cache
+D:\Heo\Đồ án PTTKHT\QLCHMT\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.CoreCompileInputs.cache
+D:\Heo\Đồ án PTTKHT\QLCHMT\DAL_QuanLy\obj\Debug\DAL_QuanLy.csproj.CopyComplete
+D:\Heo\Đồ án PTTKHT\QLCHMT\DAL_QuanLy\obj\Debug\DAL_QuanLy.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\DAL_QuanLy\obj\Debug\DAL_QuanLy.pdb

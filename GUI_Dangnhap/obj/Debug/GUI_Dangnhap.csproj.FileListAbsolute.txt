@@ -1,0 +1,275 @@
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\bin\Debug\GUI_Dangnhap.exe.config
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\bin\Debug\GUI_Dangnhap.exe
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\bin\Debug\GUI_Dangnhap.pdb
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\bin\Debug\RJCodeAdvance.RJControls.dll
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.Form1.resources
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.Properties.Resources.resources
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.csproj.CopyComplete
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.exe
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.pdb
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.exe.licenses
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormMainUI.resources
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormQLTaiKhoan.resources
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormTaomoitaikhoan.resources
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormSuataikhoan.resources
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormXoataikhoan.resources
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormQLNhanVien.resources
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormQLKhachHang.resources
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormQLSanPham.resources
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormQLLoai.resources
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormQLHoaDon.resources
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormChiTietHoaDon.resources
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormOpacity.resources
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormLapHoaDon.resources
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormQLNhaCungCap.resources
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormQLPhieuNhap.resources
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormBaoHanh.resources
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormLapBaoHanh.resources
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormThongKe.resources
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Admin\source\repos\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\GUI_Dangnhap.exe.config
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\GUI_Dangnhap.exe
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\GUI_Dangnhap.pdb
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\RJCodeAdvance.RJControls.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.Form1.resources
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormBaoHanh.resources
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormChiTietHoaDon.resources
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormLapBaoHanh.resources
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormLapHoaDon.resources
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormMainUI.resources
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormOpacity.resources
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormQLHoaDon.resources
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormQLLoai.resources
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormQLNhaCungCap.resources
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormQLNhanVien.resources
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormQLPhieuNhap.resources
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormQLSanPham.resources
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormQLTaiKhoan.resources
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormSuataikhoan.resources
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormTaomoitaikhoan.resources
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormThongKe.resources
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormXoataikhoan.resources
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.Properties.Resources.resources
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormQLKhachHang.resources
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.exe.licenses
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.csproj.CopyComplete
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.exe
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.pdb
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\BUS_QuanLy.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\DTO_QuanLy.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\DAL_QuanLy.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\BUS_QuanLy.pdb
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\DTO_QuanLy.pdb
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\DAL_QuanLy.pdb
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\EnvDTE.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\stdole.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormDoanhThuTongThe.resources
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\obj\Debug\RdlCompile.cache
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\obj\Debug\RdlCompile.compiled
+C:\Users\Admin\Downloads\Compressed\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormDoanhThuTungSanPham.resources
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\GUI_Dangnhap.exe.config
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\GUI_Dangnhap.exe
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\GUI_Dangnhap.pdb
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\BUS_QuanLy.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\DTO_QuanLy.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\FontAwesome.Sharp.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\RJCodeAdvance.RJControls.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\DAL_QuanLy.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\EnvDTE.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\stdole.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\Microsoft.MSXML.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\BUS_QuanLy.pdb
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\DTO_QuanLy.pdb
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\DAL_QuanLy.pdb
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.csproj.AssemblyReference.cache
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.csproj.SuggestedBindingRedirects.cache
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.Form1.resources
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormBaoHanh.resources
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormChiTietHoaDon.resources
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormDoanhThuTongThe.resources
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormDoanhThuTungSanPham.resources
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormLapBaoHanh.resources
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormLapHoaDon.resources
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormMainUI.resources
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormOpacity.resources
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormQLHoaDon.resources
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormQLLoai.resources
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormQLNhaCungCap.resources
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormQLNhanVien.resources
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormQLPhieuNhap.resources
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormQLSanPham.resources
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormQLTaiKhoan.resources
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormSuataikhoan.resources
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormTaomoitaikhoan.resources
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormThongKe.resources
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormXoataikhoan.resources
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.Properties.Resources.resources
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.FormQLKhachHang.resources
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.csproj.GenerateResource.cache
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.exe.licenses
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.csproj.CoreCompileInputs.cache
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.csproj.CopyComplete
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.exe
+D:\Heo\Đồ án PTTKHT\QLCHMT\GUI_Dangnhap\obj\Debug\GUI_Dangnhap.pdb
